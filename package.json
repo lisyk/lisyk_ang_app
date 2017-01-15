@@ -1,0 +1,19 @@
+{
+  "name": "lisyk_ang_app",
+  "version": "1.0.0",
+  "description": "angular application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisyk/lisyk_ang_app.git"
+  },
+  "author": "Lisyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lisyk/lisyk_ang_app/issues"
+  },
+  "homepage": "https://github.com/lisyk/lisyk_ang_app#readme"
+}
